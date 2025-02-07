@@ -18,11 +18,6 @@ A **simple employee registration form** built with **React.js** that includes in
 
 ---
 
-## 🖼 Screenshots  
-### 🏠 Homepage (Employee Registration Form)  
-![Employee Form Screenshot](https://via.placeholder.com/800x400?text=Employee+Form)  
-
----
 
 ## 🛠 Tech Stack  
 - **React.js** - UI Framework  
@@ -37,3 +32,8 @@ A **simple employee registration form** built with **React.js** that includes in
 ### 1️⃣ Clone the Repository  
 git clone https://github.com/Shivangidevkota/Employee_form.git
 cd Employee_form
+### 2️⃣ Install Dependencies
+npm install
+### 3️⃣ Run Locally
+npm start
+
