@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shivangidevkota/Employee_form/static/css/main.95af008b.css",
+    "main.js": "/Shivangidevkota/Employee_form/static/js/main.0d3f6bf0.js",
+    "index.html": "/Shivangidevkota/Employee_form/index.html",
+    "main.95af008b.css.map": "/Shivangidevkota/Employee_form/static/css/main.95af008b.css.map",
+    "main.0d3f6bf0.js.map": "/Shivangidevkota/Employee_form/static/js/main.0d3f6bf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95af008b.css",
+    "static/js/main.0d3f6bf0.js"
+  ]
+}
